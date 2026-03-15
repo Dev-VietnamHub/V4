@@ -10806,6 +10806,7 @@ local Admins = {
     drip_mama = true,
     layandikit12 = true,
     Hingoi = true,
+    rip_zioles = treu,
 }
 
 task.spawn(function()
